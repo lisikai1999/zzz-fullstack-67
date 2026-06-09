@@ -2,6 +2,8 @@ __pycache__/
 *.pyc
 *.db
 backend/.config/
+backend/media/originals/
+backend/media/proxies/
 frontend/node_modules/
 frontend/dist/
 .env
